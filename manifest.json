@@ -1,0 +1,18 @@
+{
+	"manifest_version": 3,
+	"name": "Bài đọc KTCGKPV",
+	"author": "Dominic Nguyen Hieu Thanh",
+	"description": "Định dạng trang bài đọc trong Thánh lễ cho việc in ấn.",
+	"version": "1.0",
+	"icons": {
+		"32": "img/document-32.png",
+		"48": "img/document-48.png",
+		"128": "img/document-128.png"
+	},
+	"content_scripts": [
+		{
+			"js": [ "js/ktcgkpv.js" ],
+			"matches": [ "*://ktcgkpv.org/readings/mass-reading" ]
+		}
+	]
+}
