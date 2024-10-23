@@ -1,4 +1,4 @@
-# Bài đọc KTQGKPV
+# Bài đọc KTCGKPV
 
 Tiện ích mở rộng cho Chrome: Định dạng trang bài đọc trong Thánh lễ cho việc in ấn (trên website ktcgkpv.org).
 
